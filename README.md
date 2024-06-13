@@ -41,10 +41,13 @@
   ![alt text](image-13.png) 
    
 - SQL Lesson 15: Deleting rows
-  ![alt text](image-14.png)zz
+  ![alt text](image-14.png)
+
 - SQL Lesson 16: Creating tables
   ![alt text](image-15.png)  
+
 - SQL Lesson 17: Altering tables
   ![alt text](image-16.png)  
+  
 - SQL Lesson 18: Dropping tables
   ![alt text](image-17.png)  
