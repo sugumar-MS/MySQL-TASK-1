@@ -1,5 +1,4 @@
-##- SQL Lesson 1: SELECT queries 101 **
-  ![alt text](image.png)
+- SQL Lesson 1: SELECT queries 101 
 
 - SQL Lesson 2: Queries with constraints (Pt. 1)
   ![alt text](image-1.png)
